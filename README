@@ -1,5 +1,9 @@
-Bash Git Prompt
+My Bash Prompt
 
+
+My specific bash prompt. 
+
+Inspired from My-Bash-Prompt [https://github.com/yerv000/My-Bash-Prompt]
 A Bash script to add git info to the shell prompt.
 
 Preferred Installation Method
@@ -9,20 +13,20 @@ Clone the repository into your home directory.
 For Ubuntu: Add the following two source lines to your ~/.bashrc file all
 the way at the bottom:
 
-source $HOME/Bash-Git-Prompt/git_remote_check.sh
-source $HOME/Bash-Git-Prompt/git_prompt.sh
+source $HOME/My-Bash-Prompt/git_remote_check.sh
+source $HOME/My-Bash-Prompt/git_prompt.sh
 
 For Mac OS X: By default a .profile file does not exist in the home directory.
 Create one using "touch ~/.profile" if it does not exist then add the same
 two lines to it as for Linux:
 
-source $HOME/Bash-Git-Prompt/git_remote_check.sh
-source $HOME/Bash-Git-Prompt/git_prompt.sh
+source $HOME/My-Bash-Prompt/git_remote_check.sh
+source $HOME/My-Bash-Prompt/git_prompt.sh
 
 If remote tracking is not required then only add the following line to your
 ~/.bashrc or ~/.profile all the way at the bottom:
 
-source $HOME/Bash-Git-Prompt/git_prompt.sh
+source $HOME/My-Bash-Prompt/git_prompt.sh
 
 If in a terminal shell then exit and open a new shell.
 
