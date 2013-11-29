@@ -1,6 +1,6 @@
 My Bash Prompt
 
-##Added by fcroiseaux
+#Added by fcroiseaux
 .profile has been copied to this directory but has to be copied to ~ for each new fresh setup
 
 
